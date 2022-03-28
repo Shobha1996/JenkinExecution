@@ -15,4 +15,10 @@ public class JenkinExecution {
 	{
 		System.out.println("end execution");
 	}
+	
+	@Test
+	public void jenkinExe()
+	{
+		System.out.println("execution will be ended");
+	}
 }
